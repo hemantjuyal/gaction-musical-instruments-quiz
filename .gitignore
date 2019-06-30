@@ -5,5 +5,3 @@ functions/node_modules/
 source/
 actions/package.json
 actions/agent.json
-functions/.firebaserc
-functions/firebase.json
